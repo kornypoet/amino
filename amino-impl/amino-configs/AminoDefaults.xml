@@ -23,15 +23,19 @@
     </property>
     <property>
         <name>bigtable.zookeepers</name>
-        <value>zoo1:2181,zoo2:2181,zoo3:2181</value>
+        <value>hdp-nn:2181</value>
+    </property>
+    <property>
+        <name>dataloader.zookeepers</name>
+        <value>hdp-nn:2181</value>
     </property>
     <property>
         <name>bigtable.username</name>
-        <value>username</value>
+        <value>root</value>
     </property>
     <property>
         <name>bigtable.password</name>
-        <value>password</value>
+        <value>root</value>
     </property>
     <property>
         <name>amino.visibility</name>

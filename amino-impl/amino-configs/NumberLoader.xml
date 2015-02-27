@@ -2,10 +2,10 @@
 <configuration>
     <property>
         <name>data.location</name>
-        <value>/amino/data/numbers-1k.txt</value>
+        <value>/amino/numbers/in/numbers-1k.txt</value>
     </property>
     <property>
         <name>amino.output</name>
-        <value>/amino/output/number/1k</value>
+        <value>/amino/numbers/out/1k</value>
     </property>
 </configuration>
